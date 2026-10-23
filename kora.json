@@ -3,7 +3,7 @@
   "wake_word": "Kora",
   "author": "microwakeword.com",
   "website": "https://microwakeword.com",
-  "model": "./kora.tflite",
+  "model": "https://githubusercontent.com",
   "trained_languages": [
     "en",
     "pt"
